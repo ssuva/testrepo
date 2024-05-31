@@ -1,2 +1,2 @@
 # testrepo
-exercicio curso tools for DS
+exercicio curso tools for Data Science
